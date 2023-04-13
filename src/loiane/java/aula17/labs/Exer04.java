@@ -1,4 +1,4 @@
-package loiane.java.aula16.labs;
+package loiane.java.aula17.labs;
 //Não fiz o commit nas últimas alterações e perdi as atividades
 public class Exer04 {
     public static void main(String[] args) {
