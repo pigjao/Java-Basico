@@ -23,10 +23,8 @@ public class Exer034 {
 
         for (int i = 1; i <= n; i++){
             System.out.print(s1 + "/" + s2 + " + ");
-
             s1 += 1;
             s2 += 2;
-
             soma += (double) s1 /s2;
         }
 
