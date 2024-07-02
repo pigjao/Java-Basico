@@ -46,11 +46,10 @@ public class Aula06 {
                                     jogoDaVelha[linha][coluna] == 'O') { // validando que o campo está livre
                                 System.out.println("Erro: este campo já foi" +
                                         " utilizado, tente novamente!");
-
                             } else {
                                 jogoDaVelha[linha][coluna] = sinal;
                                 jogadaValida = true;
-                            }
+                             }
 
 
 
