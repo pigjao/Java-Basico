@@ -2,7 +2,7 @@ package loiane.java.aula24;
 
 public class Clarro {
 
-        String marca;
+        public String marca;
         String modelo;
         int numeroPassageiros;
         double capacidadeTanque;

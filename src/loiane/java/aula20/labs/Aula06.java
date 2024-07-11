@@ -51,8 +51,6 @@ public class Aula06 {
                                 jogadaValida = true;
                              }
 
-
-
                     }
 
 
