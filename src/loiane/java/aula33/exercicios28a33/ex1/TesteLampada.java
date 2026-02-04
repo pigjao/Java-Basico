@@ -14,7 +14,7 @@ public class TesteLampada {
         System.out.println("Lampada acesa: " + lampadaNova.isAcesa());
 
 
-    };
+    }
 
 }
 
